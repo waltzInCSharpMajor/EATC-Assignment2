@@ -1,6 +1,6 @@
 # EATC-Assignment2
 
-A Python-based grey-box fraudulent transaction detector. Uses features like SHAPLY to help provide reasonings or signs that were the likely reason the model flagged a transaction as fraudulent, pointing the user to check certain features that may be anomalous and helping to provide more insights as opposed to a black-box approach.
+FraudWatch is a Python-based grey-box fradulent credit card transaction detector. It uses libraries like SHAP to provide clear reasoning behind why a transaction was flagged, prompting users to examine the features of the transaction to check for suspicious-looking values and providing insights into the way the model detects fraud.
 
 ## Acknowledgements
 
