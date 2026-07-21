@@ -1,6 +1,6 @@
 # EATC-Assignment2
 
-Fraudulent transaction detector
+A grey-box esque fraudulent transaction detector. Uses features like SHAPLY to help provide reasonings or signs that were the likely reason the model flagged a transaction as fraudulent & uses them as a reason. Pointing the investigator or user to check certain features that may be anomalous & help to provide more insights as to why the transaction is fraudulent as opposed to a black-box approach.
 
 ## Acknowledgements
 
