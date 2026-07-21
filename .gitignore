@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+
+
+fraudTest.csv
+fraudTrain.csv
+FraudTest.tar.bz2
+FraudTrain.tar.bz2
