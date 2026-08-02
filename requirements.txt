@@ -1,11 +1,13 @@
 # Data Manipulation & Analysis
 pandas>=1.5.0
 numpy>=1.21.0
+matplotlib>=3.11.1
 
 # Machine Learning & Modeling
 scikit-learn>=1.0.0
 xgboost>=1.5.0
 joblib>=1.1.0
+category-encoders>=2.10.0
 
 # Web Application & Deployment
 streamlit>=1.20.0
