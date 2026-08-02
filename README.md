@@ -2,9 +2,8 @@
 
 FraudWatch is an end-to-end Machine Learning pipeline and web application designed to detect fraudulent credit card transactions.
 
-**Live Application:** [FraudWatch Streamlit App](https://hbjxxyuhzxhpzrakwk8p8o.streamlit.app/)
-
-**Repository:** [waltzInCSharpMajor/EATC-Assignment2](https://github.com/waltzInCSharpMajor/EATC-Assignment2)
+- **Live Application:** [FraudWatch Streamlit App](https://hbjxxyuhzxhpzrakwk8p8o.streamlit.app/)
+- **Repository:** [waltzInCSharpMajor/EATC-Assignment2](https://github.com/waltzInCSharpMajor/EATC-Assignment2)
 
 ---
 
